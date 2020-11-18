@@ -30,7 +30,7 @@ Our dataset contains 3 variables: GPA, SAT and Attandance. It also contains 84 o
 
 ![](https://github.com/vimpicode/Predictive-Analytics-with-Linear-Regression-Model/blob/main/Original%20Regression.png)
 
-# Results and Clonclusion
+# Results and Conclusions
 The prediced GPA for Bernardo is 3.02 while for Maria is 3.2. Maria scored lower on her SAT but she attended 75% or more of the classes and she is expected to graduate with a GPA significantly higher than Bernardo. That makes sense.
 
 If we used our previous model without the Dummy variable (GPA= 0.275 + 0.0017 * SAT) we would have predicted that Bernardo would have graduated with a GPA of 3.17 and Maria with 3.12. This would have be misleading. Therefore, it makes a lot of more sense why we needed the dummy variable to predict the GPA based on SAT scores factoring in "Attendance". 
