@@ -14,7 +14,7 @@ Our data comes from https://www.kaggle.com/luddarell/103-dummiescsv
 # Exploratory Data Analysis
 Our dataset contains 3 variables: GPA, SAT and Attandance. It also contains 84 observations. Initially, the Attandance variable is coded as "YES" for students who attended more than 75% or "NO" for those with attandance less than 75%. However, for the purpose of our Linear Regression Model, we needed to convert the Attandance to a dummy variable of 1 and 0, respectively. Summary statistics was also recorded and our data set doesn't have missing variables.
 
-[No Missing Value]  (https://github.com/vimpicode/Predictive-Analytics-with-Linear-Regression-Model/blob/main/Heatmap.png)
+[No Missing Value]("https://github.com/vimpicode/Predictive-Analytics-with-Linear-Regression-Model/blob/main/Heatmap.png")
 
 
 # Data Visualization
