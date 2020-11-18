@@ -19,7 +19,7 @@ Our dataset contains 3 variables: GPA, SAT and Attandance. It also contains 84 o
 
 # Data Visualization
 
-[pairplot using seaborn] (    )
+[pairplot using seaborn](https://github.com/vimpicode/Predictive-Analytics-with-Linear-Regression-Model/blob/main/1.png)
 
 # Regression Model 
 
