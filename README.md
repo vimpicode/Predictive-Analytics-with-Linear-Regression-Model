@@ -26,6 +26,8 @@ Our dataset contains 3 variables: GPA, SAT and Attandance. It also contains 84 o
 ### Regression line and Model
 ![](https://github.com/vimpicode/Predictive-Analytics-with-Linear-Regression-Model/blob/main/Regression%20Model1.png)
 
+![](https://github.com/vimpicode/Predictive-Analytics-with-Linear-Regression-Model/blob/main/Regression%20Model2.png)
+
 # Results and Clonclusion
 The prediced GPA for Bernardo is 3.02 while for Maria is 3.2. Maria scored lower on her SAT but she attended 75% or more of the classes and she is expected to graduate with a GPA significantly higher than Bernardo. That makes sense.
 
